@@ -1,0 +1,4 @@
+# Nmap 7.95 scan initiated Fri Apr  4 00:20:47 2025 as: /usr/lib/nmap/nmap --privileged -sC -sV -oA /mnt/obsidian/Platforms/HackTheBox/red-team/Meow/sources/ 10.129.190.168
+Host: 10.129.190.168 ()	Status: Up
+Host: 10.129.190.168 ()	Ports: 23/open/tcp//telnet//Linux telnetd/	Ignored State: closed (999)
+# Nmap done at Fri Apr  4 00:21:31 2025 -- 1 IP address (1 host up) scanned in 44.70 seconds
