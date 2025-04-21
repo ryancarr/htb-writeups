@@ -31,7 +31,8 @@ nmap -sC -sV -oA sources/ 10.129.98.132
 ```
 
 - **Open Port(s):** 21/tcp - FTP 
-![note]Nmap noted that anonymous ftp login is allowed. On a properly secured system a username and password would be required for login.
+> [!note]
+> Nmap noted that anonymous ftp login is allowed. On a properly secured system a username and password would be required for login.
 
 ---
 
